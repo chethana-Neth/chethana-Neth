@@ -48,6 +48,23 @@ I am an **ICT Undergraduate and Teacher** who bridges the gap between theoretica
   </table>
 </div>
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h4>🚀 BodyMart Gym Store</h4>
+        <p>Your trusted destination for quality fitness essentials, workout gear, and everything you need to power your fitness journey.</p>
+        <p>
+           <img src="https://img.shields.io/badge/Status-Developed-Yellow?style=flat-square" />
+          <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chethana-nethmini&repo=SHILPA&theme=vision-friendly-dark" alt="Shilpa Project" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 ### 🛠️ Technical Ecosystem 
 
